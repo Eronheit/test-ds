@@ -1,6 +1,5 @@
 {
-  "name": "design-system",
-  "private": true,
+  "name": "design-system-eronheit",
   "version": "1.1.0",
   "type": "module",
   "scripts": {
